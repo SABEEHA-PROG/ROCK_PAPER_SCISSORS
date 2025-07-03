@@ -1,21 +1,21 @@
 
 ### Process Flow Diagram
 
-<img src="Rock_paper_Scissors/Images/Process Flow RPS.png" alt="Flow Diagram" width="400"/>
+<img src="Images/Process Flow RPS.png" alt="Flow Diagram" width="400"/>
 
 
 ### Architecture Diagram
 
-<img src="Rock_paper_Scissors/Images/Architecture_RPS.png" alt="Flow Diagram" width="400"/>
+<img src="Images/Architecture_RPS.png" alt="Flow Diagram" width="400"/>
 
 ### System Diagram
 
-<img src="Rock_paper_Scissors/Images/System Design_RPS.png" alt="Flow Diagram" width="400"/>
+<img src="Images/System Design_RPS.png" alt="Flow Diagram" width="400"/>
 
 
 ### Sequence Diagram
 
-<img src="Rock_paper_Scissors/Images/Sequence_Design_RPS.png" alt="Flow Diagram" width="400"/>
+<img src="Images/Sequence_Design_RPS.png" alt="Flow Diagram" width="400"/>
 
 ### Project Directory Tree :
 
