@@ -1,7 +1,7 @@
 
 ### Process Flow Diagram
 
-<img src="Images/Process Flow RPS.png" alt="Flow Diagram" width="400"/>
+<img src="Images/Process_Flow_RPS.png" alt="Flow Diagram" width="400"/>
 
 
 ### Architecture Diagram
@@ -10,12 +10,12 @@
 
 ### System Diagram
 
-<img src="Images/System Design_RPS.png" alt="Flow Diagram" width="400"/>
+<img src="Images/System_Design_RPS.png" alt="Flow Diagram" width="400"/>
 
 
 ### Sequence Diagram
 
-<img src="Images/Sequence_Design_RPS.png" alt="Flow Diagram" width="400"/>
+<img src="Images/Sequence_Flow_RPS.png" alt="Flow Diagram" width="400"/>
 
 ### Project Directory Tree :
 
