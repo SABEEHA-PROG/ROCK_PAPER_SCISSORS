@@ -1,6 +1,6 @@
 """Rock Paper Scissors game logic. functional test """
 import builtins
-from rps_game import play_game
+from RPS.rps_game import play_game
 
 def test_play_game(monkeypatch, capsys):
     """Rock Paper Scissors game logic test_play_game"""

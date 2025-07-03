@@ -1,5 +1,5 @@
 """Rock Paper Scissors game logic unit_testing ."""
-from rps_game import determine_winner, is_valid_choice
+from RPS.rps_game import determine_winner, is_valid_choice
 
 def test_user_wins():
     """Rock Paper Scissors game logic user_wins"""

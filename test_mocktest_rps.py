@@ -1,7 +1,6 @@
 """Rock Paper Scissors game logic. mock test """
+from RPS.rps_game import determine_winner
 from unittest.mock import patch
-from rps_game import determine_winner
-
 def test_user_wins_mocked_computer_choice():
     """Rock Paper Scissors game logic test_user_wins_mocked_computer_choice"""
     with patch("rps_game.get_computer_choice", return_value="scissors"):
